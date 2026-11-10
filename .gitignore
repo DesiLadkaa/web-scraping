@@ -9,6 +9,8 @@
 # # Virtual environments
 # .venv
 
+Setup.txt
+
 # Virtual environments
 .venv/
 venv/
